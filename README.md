@@ -39,7 +39,8 @@ Date.parse(lastVerifiedDate);//to milliseconds
 
 欢迎推送已知的词库。我先把麦当劳加上去。
 
-如果因为该项目影响到了github在国内的交通，或者让*有关部门*看得心头作呕，在issue list发条问题，我就义不容辞马上删掉它。*Please don't kuashen me*
+如果因为该项目影响到了github在国内的交通，或者让*有关部门*看得心头作呕，在issue list发条问题，我就义不容辞马上删掉它。
+*Please don't kuashen me*
 
 
 For English Users
